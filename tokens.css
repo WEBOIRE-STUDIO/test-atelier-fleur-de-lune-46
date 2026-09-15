@@ -1,0 +1,13 @@
+:root {
+  --primary: #3c4a34;
+  --primary-dark: #232c1e;
+  --accent: #c98a7c;
+  --text-dark: #22271e;
+  --text-on-primary: #faf7ef;
+  --bg-light: #faf8f2;
+  --bg-alt: #eeeade;
+  --border: #e1dccb;
+  --radius: 2px;
+  --font-heading: 'Fraunces';
+  --font-body: 'Inter';
+}
